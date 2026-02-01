@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=void-daksh&show_icons=true&theme=radical&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=void-daksh&show_icons=true&count_private=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-daksh&layout=compact&theme=radical&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=void-daksh&layout=compact)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=void-daksh&theme=radical&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=void-daksh)
 
 </div>
 
