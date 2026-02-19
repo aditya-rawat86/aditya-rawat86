@@ -148,4 +148,5 @@ int main() {
 ║   Improving problem-solving skills daily                   ║
 ║   Focused on becoming a skilled Software Developer         ║
 ╚══════════════════════════════════════════════════════════════╝
+</div> `
 
