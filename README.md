@@ -8,26 +8,25 @@
 
 <div align="center">
 
+## 👨‍💻 About Me
+
+<div align="center">
+
 ```c
-#include <stdio.h>
+// Developer Profile
 
-struct Developer {
-    char name[50];
-    char role[50];
-    char focus[100];
-};
-
-int main() {
-    struct Developer aditya = {
-        "Aditya Rawat",
-        "BTech CSE Student",
-        "C Programming | Problem Solving | Learning DSA"
-    };
-
-    printf("Code. Improve. Repeat.");
-    return 0;
-}
+Name  : Aditya Rawat
+Role  : BTech CSE Student
+Focus : C Programming | Problem Solving | Learning DSA
+Motto : Code. Improve. Repeat.
 ```
+
+✨ Passionate about writing clean and logical C programs  
+📚 Currently strengthening problem-solving skills  
+🚀 Focused on mastering core programming fundamentals  
+💡 Believer in consistency over motivation  
+
+</div>
 
 ✨ Passionate about writing clean and logical C programs  
 📚 Currently strengthening problem-solving skills  
